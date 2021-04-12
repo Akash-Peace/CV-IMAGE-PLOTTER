@@ -8,9 +8,9 @@
     <br />
     <a href="#installation">Installation</a>Installation</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/issues">Request Feature</a>
   </p>
 </p>
 
@@ -38,12 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Terminal Plotter project objective is to plot images in terminal/cmd with multiple functions using [OpenCV](https://opencv.org/).
-As mentioned, I decided to present this project as a python library, particularly using the
- [PyPI](https://pypi.org/).
- [MIT](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE)
- licenses this project and it is free to use, fork, modify and distribute.
- If you like this project, give a _star_ and follow me.
+Terminal Plotter project objective is to plot images in terminal/cmd with multiple functions using [OpenCV](https://opencv.org/). As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 
 ## Built With
@@ -77,13 +72,13 @@ Usage of this project is to plot images in terminal/cmd with the functions of re
 
 ## Screenshots
 
-View [Screenshots](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/tree/main/Screenshots) here.
+View [Screenshots](https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/tree/main/screenshot) here.
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/blob/main/LICENSE) for more information.
 
 
 ## My System Spec
