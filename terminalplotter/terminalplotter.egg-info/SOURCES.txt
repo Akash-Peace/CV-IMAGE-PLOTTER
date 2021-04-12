@@ -1,0 +1,8 @@
+README.md
+setup.py
+terminalplotter/terminalplotter.py
+terminalplotter/terminalplotter.egg-info/PKG-INFO
+terminalplotter/terminalplotter.egg-info/SOURCES.txt
+terminalplotter/terminalplotter.egg-info/dependency_links.txt
+terminalplotter/terminalplotter.egg-info/requires.txt
+terminalplotter/terminalplotter.egg-info/top_level.txt

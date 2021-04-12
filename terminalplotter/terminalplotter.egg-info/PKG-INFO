@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: terminalplotter
+Version: 0.0.2
+Summary: Plot image in terminal.
+Home-page: https://github.com/Akash-Peace
+Author: Akash.A
+Author-email: akashcse2000@gmail.com
+License: MIT
+Description: ## terminal-plotter
+        
+        terminal-plotter is a python module used to plot image in terminal.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
