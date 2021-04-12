@@ -6,7 +6,7 @@
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
     <br />
     <br />
-    <a href="#installation">Installation</a>Installation</a>
+    <a href="#installation">Installation</a>
     ·
     <a href="https://github.com/Akash-Peace/CV-IMAGE-PLOTTER/issues">Report Bug</a>
     ·
