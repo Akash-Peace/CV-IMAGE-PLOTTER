@@ -60,8 +60,8 @@ Terminal Plotter project objective is to plot images in terminal/cmd with multip
 ## Installation
 
 Step 1: Copy the text [**pip install terminalplotter**](https://pypi.org/project/terminalplotter/).\
-Step 2: Paste it in terminal/cmd and press enter.
-Step 3: Specify the iamge path and run the file.
+Step 2: Paste it in terminal/cmd and press enter.\
+Step 3: Specify the image path and run the file.
 
 
 <!-- USAGE EXAMPLES -->
